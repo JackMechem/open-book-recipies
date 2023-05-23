@@ -1,7 +1,5 @@
-Open Book Recipies
+Open Book Recipies Front End
 
 https://open-book-recipes.web.app
 
-recipie sites suck.
-ads suck.
-cool.
+Basic frontend made using react
